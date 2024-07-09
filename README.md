@@ -91,7 +91,7 @@ Medical cost prediction is essential for healthcare providers and insurers to ma
 
 2. Navigate to the project directory:
    ```bash
-   cd medical-cost-prediction
+   cd ML-Medical-Cost-Prediction
    ```
 
 ## Usage
